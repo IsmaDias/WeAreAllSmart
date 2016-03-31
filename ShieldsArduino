@@ -1,0 +1,30 @@
+SHIELD                                QUANTIDADE
+
+Sensor de umidade e temperatura     2
+Relé                                2
+LDR                                 2
+Joystick                            2
+Pushbotton                          2
+Laser                               2
+Sensor de chama                     2
+Buzzer                              4
+Microfone                           4
+LED RGB                             8*
+Sensor Efeito Hall                  8
+Sensor de Velocidade                2
+Sensor óptico de Reflexão           2
+Sensor interruptor eletrônico       3
+LED                                 4
+LDR                                 2
+Vibração                            2
+Temperatura	  	2
+Encoder Decoder	2
+Sensor de Temperatura  2
+Receptor RF			2
+Sensor de vibração		2
+Sensor de Infraverlheo			2
+Vela: sensor mecânico de temperatura 4
+Sensor de Tilt				2
+Simulador de Vela *		2  (talvez não seja)
+
+*6 discretos e 1 smd
